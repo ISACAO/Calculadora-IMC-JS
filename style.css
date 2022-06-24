@@ -30,11 +30,11 @@ form >  input {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #3fd4ee;
+    background-color: #5be1f8;
     width: 300px;
     height: 45px;
     color:rgb(0, 0, 0);
-    border: 2px solid  rgb(235, 238, 41);
+    border: 2px solid  rgb(246, 250, 28);
 }
 
 .off{
